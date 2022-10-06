@@ -1,0 +1,2 @@
+- 🌱 I’m currently working on my JS skills
+- 🎯 Focusing on building a Portfolio
